@@ -1,4 +1,4 @@
-# lesson_28_flutter
+# notes_app
 
 A new Flutter project.
 
